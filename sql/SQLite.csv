@@ -1,0 +1,35 @@
+"1","Created by","A real human, without the use of artificial intelligence."
+"2","https://SQL.BanD","The most secure, fast, efficient web-sql client"
+"3","SQL Online","Next gen SQL editor"
+"4","Kirill N.","https://www.linkedin.com/in/sqliteonlinecom"
+"5","Twitter","https://twitter.com/SqliteOnlineCom"
+"6","Donate (ERC20: ETH or USDC) ","0xCcc227E5615D4FADd758228Bab12ceb465D4ED18"
+"7","Donate (BTC)","bc1q25zqmgll2fz0tyduusyfageh3jh7htcwjt2rdk"
+"8","Chart","LINE-SELECT name, cos(id), sin(id) FROM demo;"
+"9","Short CODE","s* tableName => SELECT * FROM tableName
+sf tableName => SELECT columns FROM tableName
+sc tableName => SELECT count(*) FROM tableName
+sl tableName => SELECT * FROM tableName ORDER BY key DESC LIMIT 100;
+ct => CREATE TABLE
+ii tableName => INSERT INTO
+us tableName => UPDATE SET
+uw tableName => UPDATE SET WHERE
+df tableName => DELETE FROM
+dw tableName => DELETE FROM WHERE"
+"10","SqLite 3.44.0","SQL OnLine on JavaScript"
+"11","[RightClick] mouse","Opens many additional features"
+"12","Left-Panel, Table","[RightClick] mouse ""Context menu"""
+"13","Tabs","mouse: [RightClick] , [MiddleClick] , [Wheel] , [LeftClick]"
+"14","SQL Editor","autocomplete: [Ctrl-Space] or [Alt-Space]; run: [Shift-Enter]"
+"15","Size table","Fast scroll million rows"
+"16","Share","Create public link DB"
+"17","12","Number of color themes"
+"18","ai.Url","https://sqliteonline.com/LICENSE"
+"19","ai.Color","#9393ad"
+"20","ai.Image","Blob - png, jpg, gif or String(base64) [DbClick] row"
+"21","SQL","Syntax example library"
+"22","CREATE","CREATE TABLE table_name (col1, col2)"
+"23","SELECT","SELECT * FROM table_name"
+"24","INSERT","INSERT INTO table_name (col1, col2) VALUES (""example"",""test"")"
+"25","UPDATE","UPDATE table_name SET col1=""work"" WHERE col2=""test"""
+"26","DELETE","DELETE FROM table_name"
